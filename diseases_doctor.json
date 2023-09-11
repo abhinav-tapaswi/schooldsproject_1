@@ -1,0 +1,153 @@
+{
+    "Doctors": {
+        "Dermatologist":[
+            {
+                "Disease":"Fungal infection"
+            },
+            {
+                "Disease":"Acne"
+            },
+            {
+                "Disease":"Psoriasis"
+            },
+            {
+                "Disease":"Impetigo"
+            }
+        ],
+        "Gastroenterologist":[
+            {"Disease":"hepatitis A"},
+            {
+                "Disease":"Hepatitis B"
+            },
+            {
+                "Disease":"Hepatitis C"
+            },
+            {
+                "Disease":"Hepatitis D"
+            },
+            {"Disease":"Hepatitis E"},
+            {
+                "Disease":"Alcoholic hepatitis"
+            },
+            {
+                "Disease":"GERD"
+            },
+            {
+                "Disease":"Chronic cholestasis"
+            },
+            {
+                "Disease":"Peptic ulcer diseae"
+            },
+            {
+                "Disease":"Gastroenteritis"
+            },
+            {
+                "Disease":"Jaundice"
+            }
+        ],
+        "Pulmonologist":[
+            {
+                "Disease":"Tuberculosis"
+            },
+            {
+                "Disease":"Bronchial Asthma"
+            }
+        ],
+        "General Physician":[
+            {
+                "Disease":"Common Cold"
+            },
+            {
+                "Disease":"AIDS"
+            },
+            {
+                "Disease":"Hypertension"
+            },
+            {
+                "Disease":"Malaria"
+            },
+            {
+                "Disease":"Chicken pox"
+            },
+            {
+                "Disease":"Dengue"
+            },
+            {
+                "Disease":"Typhoid"
+            }
+        ],
+        "Lung Specialist":[
+            {
+                "Disease":"Pneumonia"
+            }
+        ],
+        "Proctologist":[
+            {
+                "Disease":"Dimorphic hemmorhoids(piles)"
+            }
+        ],
+        "Cardiologist":[
+            {
+                "Disease":"Heart attack"
+            }
+        ],
+        "Vascular Surgeon":[
+            {
+                "Disease":"Varicose veins"
+            }
+        ],
+        "Endocrinologist":[
+            {
+                "Disease":"Hypothyroidism"
+            },
+            {
+                "Disease":"Hyperthyroidism"
+            },
+            {
+                "Disease":"Hypoglycemia"
+            },
+            {
+                "Disease":"Diabetes"
+            }
+        ],
+        "Rheumatologist":[
+            {
+                "Disease":"Osteoarthritis"
+            },
+            {
+                "Disease":"Arthritis"
+            }
+        ],
+        "ENT Specialist":[
+            {
+                "Disease":"(vertigo) Paroymsal  Positional Vertigo"
+            }
+        ],
+        "Urologist":[
+            {
+                "Disease":"Urinary Tract Infection"
+            }
+        ],
+        "Allergist":[
+            {
+                "Disease":"Allergy"
+            },
+            {
+                "Disease":"Drug Reaction"
+            }
+        ],
+        "Neurologist":[
+            {
+                "Disease":"Migraine"
+            },
+            {
+                "Disease":"Paralysis (brain hemorrhage)"
+            }
+        ],
+        "Orthopaedic Surgeon":[
+            {
+                "Disease":"Cervical spondylosis"
+            }
+        ]
+    }
+}
