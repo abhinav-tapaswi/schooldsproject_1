@@ -73,13 +73,5 @@ class DiseasetoDoctor:
                 found_key = key
                 break
         return [p,found_key]
-print(DiseasetoDoctor().findDoc(['acidity',
-  'indigestion',
-  'headache',
-  'blurred_and_distorted_vision',
-  'excessive_hunger',
-  'stiff_neck',
-  'depression',
-  'irritability',
-  'visual_disturbances']))
+
 
