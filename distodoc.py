@@ -20,10 +20,11 @@ data={
 class DiseasetoDoctor:
     def findDoc(self,lis):
         model=load('symptoms-disease_model.joblib')
-        for i in model.predict(np.array([lis])):
+        pred=model.predict(np.array([lis]))
+        for i in pred:
             p=i
         for key, value_list in data.items():
             if p in value_list:
                 found_key = key
                 break
-        return found_key
+        return [pred,found_key]
