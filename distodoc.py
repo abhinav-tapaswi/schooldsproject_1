@@ -72,5 +72,14 @@ class DiseasetoDoctor:
             if p in value_list:
                 found_key = key
                 break
-        return [pred,found_key]
+        return [p,found_key]
+print(DiseasetoDoctor().findDoc(['acidity',
+  'indigestion',
+  'headache',
+  'blurred_and_distorted_vision',
+  'excessive_hunger',
+  'stiff_neck',
+  'depression',
+  'irritability',
+  'visual_disturbances']))
 
